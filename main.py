@@ -7,7 +7,7 @@ from pygame import mixer
 pygame.init()
 
 screen=pygame.display.set_mode((800,600))
-pygame.display.set_caption("TANK STARS BY DODO")
+pygame.display.set_caption("TANK STARS BY Prakash")
 #background
 background=pygame.image.load("C:/Users/Bidyut/Desktop/TANK WARS/bg.png")
 
