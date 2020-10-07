@@ -10,3 +10,4 @@ Tank Wars - A Shooting Game in which the player has to shoot down cars coming fr
 3) Type "cd [Your-Directory]"
 4) Type "python main.py"
 # Python Beginners Game
+# By Prakash-Das123 and Bisrut-Pyne
